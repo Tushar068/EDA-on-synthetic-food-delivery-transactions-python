@@ -166,7 +166,10 @@ Used the **IQR (Interquartile Range)** method to detect outliers across 6 numeri
  ┣ 📄 synthetic_food_delivery_transactions.csv
  ┗ 📄 README.md
 ```
+---
 
+## 📒 View Notebook
+👉 [Open in Google Colab](https://colab.research.google.com/drive/1pxe0tO3nxFUPhDsG8O_sqHVkaOl4aPcE?usp=sharing)
 ---
 
 ## 👤 Author
