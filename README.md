@@ -161,7 +161,7 @@ Used the **IQR (Interquartile Range)** method to detect outliers across 6 numeri
 ## 📁 Project Structure
 
 ```
-📦 food-delivery-eda
+📦 EDA_on_Synthetic_Food_Delivery_Transactions
  ┣ 📄 EDA_on_Synthetic_Food_Delivery_Transactions.ipynb
  ┣ 📄 synthetic_food_delivery_transactions.csv
  ┗ 📄 README.md
@@ -172,4 +172,4 @@ Used the **IQR (Interquartile Range)** method to detect outliers across 6 numeri
 ## 👤 Author
 
 **Tushar**  
-[GitHub](https://github.com/Tushar068) • [LinkedIn](https://www.linkedin.com/in/tushar-biswas03/)
+[GitHub](https://github.com/Tushar068) | [LinkedIn](https://www.linkedin.com/in/tushar-biswas03/)
