@@ -1,4 +1,4 @@
-# 🍔 Exploratory Data Analysis — Synthetic Food Delivery Transactions
+# 🍔 Exploratory Data Analysis - Synthetic Food Delivery Transactions
 
 ---
 
@@ -174,5 +174,5 @@ Used the **IQR (Interquartile Range)** method to detect outliers across 6 numeri
 
 ## 👤 Author
 
-**Tushar**  
+**Tushar Biswas**  
 [GitHub](https://github.com/Tushar068) | [LinkedIn](https://www.linkedin.com/in/tushar-biswas03/)
