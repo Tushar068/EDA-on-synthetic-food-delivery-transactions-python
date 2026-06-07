@@ -122,6 +122,8 @@ Used the **IQR (Interquartile Range)** method to detect outliers across 6 numeri
 
 ## 📈 Visualizations
 
+All 11 charts are available in the `visuals/` folder.
+
 11 visualizations created using **Matplotlib** and **Seaborn**:
 
 | # | Chart Type | Question |
@@ -158,11 +160,8 @@ Used the **IQR (Interquartile Range)** method to detect outliers across 6 numeri
 
 ---
 
-## Reports
+## 📝 Reports
 A detailed PDF report of all findings is available in the `reports/` folder.
-
-## Visualizations
-All 11 charts are available in the `visuals/` folder.
 
 ---
 
