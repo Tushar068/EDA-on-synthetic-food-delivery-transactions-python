@@ -158,12 +158,35 @@ Used the **IQR (Interquartile Range)** method to detect outliers across 6 numeri
 
 ---
 
-## 📁 Project Structure
+## Reports
+A detailed PDF report of all findings is available in the `reports/` folder.
 
+## Visualizations
+All 11 charts are available in the `visuals/` folder.
+
+---
+
+## 📁 Repository Structure
 ```
-📦 EDA_on_Synthetic_Food_Delivery_Transactions
- ┣ 📄 EDA_on_Synthetic_Food_Delivery_Transactions.ipynb
- ┣ 📄 synthetic_food_delivery_transactions.csv
+EDA_on_Synthetic_Food_Delivery_Transactions/
+ ┣ 📁 data/
+ ┃  ┗ synthetic_food_delivery_transactions.csv
+ ┣ 📁 notebooks/
+ ┃  ┗ EDA_on_Synthetic_Food_Delivery_Transactions.ipynb
+ ┣ 📁 reports/
+ ┃  ┗ EDA_Food_Delivery_Report.pdf
+ ┣ 📁 visuals/
+ ┃  ┣ 01.png
+ ┃  ┣ 02.png
+ ┃  ┣ 03.png
+ ┃  ┣ 04.png
+ ┃  ┣ 05.png
+ ┃  ┣ 06.png
+ ┃  ┣ 07.png
+ ┃  ┣ 08.png
+ ┃  ┣ 09.png
+ ┃  ┣ 10.png
+ ┃  ┗ 11.png
  ┗ 📄 README.md
 ```
 ---
